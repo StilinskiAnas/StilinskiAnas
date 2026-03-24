@@ -1,4 +1,4 @@
-# Hey there, I'm Anas 👋
+## Hey there, I'm Anas 👋
 
 Full-Stack Developer & AI Engineer based in Morocco. I hold a Master's degree in Big Data and Artificial Intelligence.
 

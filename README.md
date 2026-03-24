@@ -11,13 +11,6 @@ I build end-to-end solutions — from intelligent systems and ML pipelines to pr
 **Cloud & DevOps:** AWS · Docker · Terraform · CI/CD pipelines  
 **Data:** PostgreSQL, MongoDB, MySQL, InfluxDB · Apache Spark, Kafka, Hadoop · ETL pipelines  
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StilinskiAnas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StilinskiAnas&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=StilinskiAnas&theme=tokyonight&hide_border=true" />
 </p>
